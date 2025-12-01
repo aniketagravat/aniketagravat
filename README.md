@@ -1,5 +1,5 @@
 # Hi, I'm Aniket Agravat 👋  
-### Aspiring Data Analyst | SQL | Power BI | Excel | Python
+### Data Analyst | SQL | Power BI | Excel | Python
 
 ---
 
