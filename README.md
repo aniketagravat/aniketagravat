@@ -21,18 +21,21 @@
 
 ---
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| 📊 Sales Dashboard in Power BI | Interactive dashboard showing revenue trends, top customers, etc. | Power BI |
-| 🎶 Music Store SQL Analysis | SQL project with joins & CTEs to analyze store performance | SQL |
+| Project | What It Shows | Tech Stack |
+|--------|----------------|------------|
+| **📈 Meta Ads Performance Intelligence** | Automated Meta Graph API → Power BI pipeline. Built ROAS, CPA, CTR metrics, identified low-ROI segments causing spend leak. | Power BI, DAX, Power Query (API), Data Modeling |
+| **🎶 Music Store Revenue Analytics** | SQL analytics using joins + window functions to reveal revenue drivers and declining segments for retention decisions. | PostgreSQL, SQL |
+| **🔍 FakeSpot – Instagram Fraud Detection** | Engineered 10+ behavioral features, trained ML models achieving 93% F1 to flag suspicious accounts. | Python, Pandas, Scikit-Learn |
 
 ---
 
-### 📌 Currently Working On
-- Improving SQL & Python for data analysis  
-- Publishing new dashboards and case studies  
+## 📌 Focus Areas
+
+- Deliver analytics with measurable business outcomes
+- Strengthening ML + advanced SQL in reporting workflows
+- Publishing insights-driven case studies regularly
 
 ---
 
