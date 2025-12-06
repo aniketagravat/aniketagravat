@@ -25,8 +25,8 @@
 
 | Project | What It Shows | Tech Stack |
 |--------|----------------|------------|
-| **📈 Meta Ads Performance Intelligence** | Automated Meta Graph API → Power BI pipeline. Built ROAS, CPA, CTR metrics, identified low-ROI segments causing spend leak. | Power BI, DAX, Power Query (API), Data Modeling |
-| **🎶 Music Store Revenue Analytics** | SQL analytics using joins + window functions to reveal revenue drivers and declining segments for retention decisions. | PostgreSQL, SQL |
+| **📈 Meta Ads Performance Analytics** | Automated Meta Graph API → Power BI pipeline. Built ROAS, CPA, CTR metrics, identified low-ROI segments causing spend leak. | Power BI, DAX, Power Query (API), Data Modeling |
+| **🎶 Music-Store-Analysis-With-Sql** | SQL analytics using joins + window functions to reveal revenue drivers and declining segments for retention decisions. | PostgreSQL, SQL |
 | **🔍 FakeSpot – Instagram Fraud Detection** | Engineered 10+ behavioral features, trained ML models achieving 93% F1 to flag suspicious accounts. | Python, Pandas, Scikit-Learn |
 
 ---
